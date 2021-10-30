@@ -1,3 +1,5 @@
+// (C) 2021 White Matrix. All rights reserved.
+
 addEventListener('fetch', event => {
 	event.respondWith(handleRequest(event))
 })
