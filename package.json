@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "feedengage-demo-submit",
+  "version": "1.0.0",
+  "description": "Protected submission portal for demonstrating FeedEngage capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "White Matrix",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
